@@ -246,7 +246,7 @@ dff
      
 #### OUTPUT:
 
-![image](https://github.com/LATHIKESHWARAN/exno1/assets/119393556/a350867b-a6c0-4d3a-94fa-7e13b6874499)
+![image](https://github.com/JebaSolomonRajS/Ex-01-Data-Cleaning-Process-using-Python/assets/139432449/1f80062c-7eaa-47ce-a48f-9c4ca269fc34)
 
     
 ### 20) Dropping the null value
@@ -257,7 +257,7 @@ dff.dropna()
               
 #### OUTPUT:
 
-![image](https://github.com/LATHIKESHWARAN/exno1/assets/119393556/e89a47bf-418b-4d60-9c75-f4e150bde470)
+![image](https://github.com/JebaSolomonRajS/Ex-01-Data-Cleaning-Process-using-Python/assets/139432449/60f37814-2b73-4cd5-b5c4-dc2f727baf1d)
 
 
     
@@ -268,7 +268,7 @@ sns.boxplot(data=dff)
      
 #### OUTPUT:
 
-![image](https://github.com/LATHIKESHWARAN/exno1/assets/119393556/b26c5fa9-3286-4299-a3e0-462659b72e6d)
+![image](https://github.com/JebaSolomonRajS/Ex-01-Data-Cleaning-Process-using-Python/assets/139432449/be407782-7c66-4d35-aa92-ad409beb39b0)
 
   
 ### 22) Z Score
@@ -284,7 +284,7 @@ ds
  
 #### OUTPUT:
 
-![image](https://github.com/LATHIKESHWARAN/exno1/assets/119393556/c81cd121-42a2-4608-892b-33755423d018)
+![image](https://github.com/JebaSolomonRajS/Ex-01-Data-Cleaning-Process-using-Python/assets/139432449/1289facd-94ac-4ee1-bb9c-06c0f032ef22)
 
 ### 23) Z Score
 ```Python
@@ -299,9 +299,9 @@ ds
 
 #### OUTPUT:
 
-![image](https://github.com/LATHIKESHWARAN/exno1/assets/119393556/c81cd121-42a2-4608-892b-33755423d018)
+![image](https://github.com/JebaSolomonRajS/Ex-01-Data-Cleaning-Process-using-Python/assets/139432449/5b2d2b80-30ba-4d35-860f-bb70f1830826)
 
-    
+   
 ### 24) Z Score
 ```Python
 sns.boxplot(data=ds)
@@ -309,7 +309,7 @@ sns.boxplot(data=ds)
 
               
 #### OUTPUT:
-![image](https://github.com/LATHIKESHWARAN/exno1/assets/119393556/a1afb418-e531-4eaa-9f0f-db5be7b0c20c)
+![image](https://github.com/JebaSolomonRajS/Ex-01-Data-Cleaning-Process-using-Python/assets/139432449/f7db7ba1-3fa2-4f37-af7c-b3b78fde1495)
 
     
  ### 25) Z Score
@@ -319,8 +319,7 @@ z
 ```
    
 #### OUTPUT:
-![image](https://github.com/LATHIKESHWARAN/exno1/assets/119393556/f52c84e7-00eb-4c8e-b5a7-653ea094ed1f)
-
+![image](https://github.com/JebaSolomonRajS/Ex-01-Data-Cleaning-Process-using-Python/assets/139432449/ff2b6968-ffb5-4d96-91fd-8f5b047d1489)
 
 
 
@@ -331,7 +330,7 @@ print(ds[z['weight']>3])
 
 
 #### OUTPUT:
-![image](https://github.com/LATHIKESHWARAN/exno1/assets/119393556/5deaf50a-9342-48f4-ae99-1cc751d39320)
+![image](https://github.com/JebaSolomonRajS/Ex-01-Data-Cleaning-Process-using-Python/assets/139432449/b91f9d4c-fd3f-4647-bdb3-ccb61b00ce5d)
 
 
 # Result
