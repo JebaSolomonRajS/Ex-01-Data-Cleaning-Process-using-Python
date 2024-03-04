@@ -20,12 +20,6 @@ STEP 5: Remove outliers using IQR
 
 STEP 6: Use zscore of to remove outliers
 
-# Coding and Output
-
-```
-### Developed By: Jeba Solomon Raj S
-### Register Number: 212223230089
-```
 
 ### 1) Read and display DataFrame
 ```Python
@@ -332,6 +326,12 @@ print(ds[z['weight']>3])
 #### OUTPUT:
 ![image](https://github.com/JebaSolomonRajS/Ex-01-Data-Cleaning-Process-using-Python/assets/139432449/b91f9d4c-fd3f-4647-bdb3-ccb61b00ce5d)
 
+# Coding and Output
+
+```
+### Developed By: Jeba Solomon Raj S
+### Register Number: 212223230089
+```
 
 # Result
-          Therefore program was successfully executed
+Therefore program was successfully executed
